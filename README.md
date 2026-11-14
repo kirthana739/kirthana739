@@ -1,6 +1,6 @@
 # Hi, I'm Kirthana Ganesh Kunder
 
-**BCA Student | Aspiring Data Analyst & Python Developer**
+**BCA Student | Software Developer & Data Analyst**
 
 I'm a BCA student at Alva's Degree College, Moodubidire, Karnataka. I enjoy turning data into clear insights and building web applications that solve real problems. I'm currently looking for **internship opportunities** in data analytics and software development.
 
